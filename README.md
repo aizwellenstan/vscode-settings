@@ -69,9 +69,8 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
   "emmet.showAbbreviationSuggestions": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.formatOnPaste": false,
-  "workbench.colorTheme": "Just Black",
-  "window.zoomLevel": 1,
-  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "material-icon-theme",
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 24,
   "files.autoSave": "off",
@@ -171,7 +170,7 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
     "upvote"
   ],
   "editor.lineHeight": 0,
-  "editor.fontSize": 27
+  "editor.fontSize": 14
 }
 ```
 
