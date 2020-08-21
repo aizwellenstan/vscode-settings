@@ -74,7 +74,7 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 14,
   "git.autofetch": true,
-  "terminal.integrated.fontFamily": "Osaka-mono",
+  // "terminal.integrated.fontFamily": "Osaka-mono",
   "files.autoSave": "off",
   "editor.fontFamily": "monospace",
   "markdown.preview.fontSize": 36,
