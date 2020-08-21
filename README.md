@@ -76,7 +76,7 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
   "git.autofetch": true,
   // "terminal.integrated.fontFamily": "Osaka-mono",
   "files.autoSave": "off",
-  "editor.fontFamily": "monospace",
+  // "editor.fontFamily": "monospace",
   "markdown.preview.fontSize": 36,
   "editor.tabSize": 2,
   "editor.detectIndentation": true,
